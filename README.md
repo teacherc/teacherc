@@ -1,0 +1,5 @@
+- 👋🏾 Hi, I’m @teacherc!
+- 👀 I’m interested in data engineering and web development
+- 🌱 I’m currently learning how to create end-to-end data pipelines
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me - writecandace at gmail dot com

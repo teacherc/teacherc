@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m @teacherc!
+- 👋🏾 Hi, I’m Candace
 - 👀 I’m interested in data engineering and web development
 - 🌱 I’m currently learning how to train and deploy ML models using PyTorch and Google Compute Engine
 - 💞️ I’m looking to collaborate on open source projects

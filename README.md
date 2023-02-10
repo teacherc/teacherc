@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning how to extract, transform, load, and analyze data
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - writecandace at gmail dot com
-- ⬇️ Check out my web app below
+- ⬇️ Check out my web app and Data Engineering Zoomcamp notes below

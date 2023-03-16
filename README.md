@@ -1,4 +1,2 @@
 - 👋🏾 Hi, I’m [Candace](https://teacherc.github.io/about)
-- 👀 I’m interested in backend engineering and data engineering
 - 📫 How to reach me - writecandace at gmail dot com
-- ⬇️ Check out my web app and Data Engineering Zoomcamp notes below

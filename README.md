@@ -1,2 +1,1 @@
-- 👋🏾 Hi, I’m [Candace](https://teacherc.github.io/about)
-- 📫 How to reach me - writecandace at gmail dot com
+
